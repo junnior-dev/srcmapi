@@ -24,3 +24,7 @@ __pycache__/
 
 # Logs
 *.log
+token_obtenido*.txt
+.env.test
+.env
+*.env
